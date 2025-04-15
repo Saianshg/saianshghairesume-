@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Saiansh Ghai - Portfolio</title>
+  <link href="style.css" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
+</head>
+<body>
+
+  <!-- Navigation Bar -->
+  <nav>
+    <div class="logo">Saiansh Ghai</div>
+    <ul>
+      <li><a href="#about">About</a></li>
+      <li><a href="#education">Education</a></li>
+      <li><a href="#hobbies">Hobbies</a></li>
+      <li><a href="#skills">Skills</a></li>
+      <li><a href="#experience">Experience</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+
+  <!-- Header -->
+  <header>
+    <h1>Saiansh Ghai</h1>
+    <p>BBA Student | Market Research | Digital Business & Entrepreneurship</p>
+    <div class="social-icons">
+      <a href="https://www.linkedin.com/feed/" target="_blank"><i class="fab fa-linkedin"></i></a>
+      <a href="mailto:saianshghai@example.com"><i class="fas fa-envelope"></i></a>
+    </div>
+  </header>
+
+  <!-- About Section -->
+  <section id="about">
+    <h2>About Me</h2>
+    <p>
+      I am a first-year BBA student at the Indian Institute of Management Bangalore. With a strong foundation in finance, marketing, and business strategy, I am passionate about market research, digital business models, and entrepreneurship.
+      <br><br>
+      I actively participate in both academic and extracurricular activities to enhance my analytical and problem-solving skills. My experience in my family business has provided me with hands-on knowledge of operations, customer service, and business decision-making.
+      <br><br>
+      Currently specializing in Digital Business & Entrepreneurship, I am eager to apply my skills in real-world business scenarios and contribute to the business world.
+    </p>
+  </section>
+
+  <!-- Education Section -->
+  <section id="education">
+    <h2>Education</h2>
+    <ul>
+      <li>
+        <strong>The Indian Heights School, Delhi</strong><br />
+        Completed Class 12 with Commerce (without Mathematics)<br />
+        Year of Completion: 2024
+      </li>
+      <br />
+      <li>
+        <strong>Indian Institute of Management Bangalore (IIMB)</strong><br />
+        BBA - Bachelor of Business Administration<br />
+        Specialization: Digital Business & Entrepreneurship<br />
+        Year: 2024 – Present
+      </li>
+    </ul>
+  </section>
+
+  <!-- Hobbies Section -->
+  <section id="hobbies">
+    <h2>Hobbies</h2>
+    <p>
+      Outside of academics, I enjoy playing outdoor sports, listening to music, and learning new things. These activities keep me energized, curious, and always growing in different aspects of life.
+    </p>
+  </section>
+
+  <!-- Skills Section -->
+  <section id="skills">
+    <h2>Skills</h2>
+    <div class="skills">
+      <div class="skill">Excel</div>
+      <div class="skill">PowerPoint</div>
+      <div class="skill">Market Research</div>
+      <div class="skill">Leadership</div>
+      <div class="skill">Business Strategy</div>
+      <div class="skill">Problem Solving</div>
+    </div>
+  </section>
+
+  <!-- Experience Section -->
+  <section id="experience">
+    <h2>Experience</h2>
+    <p><strong>Business Operations Assistant</strong><br> Jan 1, 2025 – Feb 1, 2025</p>
+    <ul>
+      <li>Assisted in managing daily business operations, including inventory, customer interactions, and financial tasks.</li>
+      <li>Conducted market research to understand customer preferences and improve product offerings.</li>
+      <li>Gained practical exposure to business decision-making, problem-solving, and operational management, strengthening analytical and leadership skills.</li>
+    </ul>
+  </section>
+
+  <!-- Footer -->
+  <footer id="contact">
+    <p>&copy; 2025 Saiansh Ghai | All Rights Reserved</p>
+    <a href="https://www.linkedin.com/feed/" target="_blank">LinkedIn</a>
+  </footer>
+
+</body>
+</html>
